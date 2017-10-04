@@ -1,6 +1,6 @@
 # ionic-vue
 
-> A Vue.js project
+Have you ever wanted to use Ionic with other frameworks than Angular? Now you can! Ionic 4 is in early alpha, so the implementation is likely to change as time goes on... but here it is anyway!
 
 ## Build Setup
 
