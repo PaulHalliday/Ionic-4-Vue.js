@@ -1,6 +1,6 @@
 <template>
   <ion-app>
-    <ion-page class="show-page" ng-controller="RootCtrl">
+    <ion-page class="show-page">
       <ion-header>
         <ion-toolbar>
           <ion-title>Ionic 4 + Vue</ion-title>
